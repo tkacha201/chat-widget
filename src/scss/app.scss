@@ -29,7 +29,8 @@ html {
 }
 
 .chat {
-  background: white;
+  background: blue;
+  color: white;
   width: 75px;
   height: 75px;
   border-radius: 50%;
@@ -38,6 +39,6 @@ html {
   font-size: 40px;
   text-align: center;
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+  bottom: 0px;
+  right: 0px;
 }
